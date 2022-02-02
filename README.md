@@ -5,7 +5,7 @@
 - :round_pushpin: Brasília, Brazil;
 - :orange_book: just finished a Front-End and Mobile course (740 hours);
 - :iphone: in this course, I made some projects using Flutter, React Native, Javascript, HTML, CSS, and Bootstrap. I also have some projects in Java. 
-- :paintbrush: I'm also very interested in the design area. I've made some courses about UX and UI Design.
+- :paintbrush: I'm also very interested in the design area. I took some courses on UX and UI Design.
 
 # 🤹🏻 Skills:
 ![image](https://user-images.githubusercontent.com/77711349/141021971-2faa7c98-8709-4f0a-aedc-bc3cc9a252e5.png)
